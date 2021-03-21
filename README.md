@@ -20,7 +20,7 @@
  - Setup the hardware:
     - How to use a breadboard: https://www.youtube.com/watch?v=6WReFkfrUIk
     - Connect all the hardware parts like the diagram below:
-      <br><img src="images/schematic.png" width="500" height="500">
+      <br><img src="images/schematic.png" width="813" height="380">
  - Setup the software (https://www.youtube.com/watch?v=WIRp1SgIaoo):
     - Download this repo as a zip file
     - Plug the NodeMcu board into your computer
@@ -37,6 +37,6 @@
     - Go to your default browser and enter the following address: ``` http://127.0.0.1:8050/ ``` and you are ready to go!
 
 ##### Media:
-  <img src="images/board1.jpg" width="200" height="200"> <img src="images/board2.jpg" width="200" height="200">
-  <br><img src="images/GUI.png" width="400" height="200">
+  <img src="images/board1.jpg" width="350" height="200"> <img src="images/board2.jpg" width="350" height="200">
+  <br><img src="images/GUI.png" width="600" height="200">
   
