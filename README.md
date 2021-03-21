@@ -25,15 +25,18 @@
     - Download this repo as a zip file
     - Plug the NodeMcu board into your computer
     - Open vscode and then go to platformio and click import project and import the unzipped folder that you have download before
+    - Go to ``` src ``` folder and open the ``` main.cpp ``` file
+    - Update lines 64 and 65 to match your home WiFi credentials
     - Hit the flash software button
     - Done! The board should turn on without any problems and start displaying the IAQ values
  - Setup GUI:
     - Open your command prompt and go to the unzipped folder downloaded before
+    - Install the required packages using pip: ``` pip3 install requirements.txt ```
     - Start the mqttClient.py by running: ``` python3 mqttClient.py ```
     - Start the dash.py by running: ``` python3 dash.py ```
     - Go to your default browser and enter the following address: ``` http://127.0.0.1:8050/ ``` and you are ready to go!
 
 ##### Media:
-  <img src="images/board1.png" width="200" height="200"> <img src="images/board2.png" width="200" height="200">
+  <img src="images/board1.jpg" width="200" height="200"> <img src="images/board2.jpg" width="200" height="200">
   <br><img src="images/GUI.png" width="400" height="200">
   
