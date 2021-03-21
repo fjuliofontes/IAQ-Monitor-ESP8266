@@ -38,5 +38,5 @@
 
 ##### Media:
   <img src="images/board1.jpg" width="350" height="200"> <img src="images/board2.jpg" width="350" height="200">
-  <br><img src="images/GUI.png" width="600" height="200">
+  <br><img src="images/GUI.png" width="800" height="200">
   
